@@ -1,41 +1,8 @@
-# Selamat Datang di Repositori Saya!
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-![Header Image](link_ke_gambar_header_anda)
-
-Halo! Saya [Nama Anda], dan ini adalah repositori GitHub pribadi saya. Di sini Anda akan menemukan berbagai proyek yang saya kerjakan, mulai dari kode sumber hingga tutorial dan artikel.
-
-## Proyek Utama
-
-Berikut adalah beberapa proyek utama yang saya kerjakan:
-
-1. **Nama Proyek 1**
-   - Deskripsi singkat tentang proyek ini.
-   - Tautan langsung ke repositori atau situs web proyek.
-
-2. **Nama Proyek 2**
-   - Deskripsi singkat tentang proyek ini.
-   - Tautan langsung ke repositori atau situs web proyek.
-
-3. **Nama Proyek 3**
-   - Deskripsi singkat tentang proyek ini.
-   - Tautan langsung ke repositori atau situs web proyek.
-
-## Cara Berkontribusi
-
-Saya sangat terbuka untuk kolaborasi! Jika Anda tertarik untuk berkontribusi pada salah satu proyek saya, berikut langkah-langkahnya:
-
-1. Cari proyek yang ingin Anda kontribusikan di repositori saya.
-2. Fork repositori tersebut ke akun GitHub Anda.
-3. Buat perubahan atau tambahan sesuai yang Anda inginkan di fork Anda.
-4. Kirimkan pull request dengan deskripsi singkat tentang perubahan yang Anda buat.
-
-Saya akan sangat menghargai setiap kontribusi dari Anda!
-
-## Kontak
-
-Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut tentang proyek saya, jangan ragu untuk menghubungi saya melalui:
-
-- Email: [alamat email Anda]
-- LinkedIn: [tautan profil LinkedIn Anda]
-
-Terima kasih telah mengunjungi profil GitHub saya!
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
