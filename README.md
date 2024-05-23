@@ -5,9 +5,9 @@ Saya adalah seorang Fullstack Developer yang berfokus pada pengembangan aplikasi
 
 ## Pengalaman Kerja
 
-### PT International Textile Plumbon
-*Sebagai bagian dari tim pengembang, saya berkontribusi dalam pembuatan aplikasi recruitment yang memungkinkan perusahaan untuk mengelola proses perekrutan dengan lebih efisien. Saya bertanggung jawab atas pengembangan frontend dan integrasi dengan backend.
-*Sebagai bagian dari tim pengembang, saya berkontribusi dalam pembuatan aplikasi EHRD yang memungkinkan perusaahn untuk mengelola proses penerimaan karyawan, absensi, dan gaji karyawan. Saya bertanggung jawab atas pengembangan Frontend dan integrasi dengan Backend.
+### PT International Textile Plumbon 2023-2024
+1. Sebagai bagian dari tim pengembang, saya berkontribusi dalam pembuatan aplikasi recruitment yang memungkinkan perusahaan untuk mengelola proses perekrutan dengan lebih efisien. Saya bertanggung jawab atas pengembangan frontend dan integrasi dengan backend.
+2. Sebagai bagian dari tim pengembang, saya berkontribusi dalam pembuatan aplikasi EHRD yang memungkinkan perusaahn untuk mengelola proses penerimaan karyawan, absensi, dan gaji karyawan. Saya bertanggung jawab atas pengembangan Frontend dan integrasi dengan Backend.
 
 ## Project yang sudah saya buat 
 
@@ -23,4 +23,4 @@ Saya adalah seorang Fullstack Developer yang berfokus pada pengembangan aplikasi
 10. Sistem Pendukung Keputusan Menentukan Pemilihan Pemain Basket Terbaik (Laravel 10)
 11. Sistem Pendukung Keputusan Pemilihan Batu Alam untuk Dekorasi Rumah menggunakan Metode Analytical Hierarchy Process (AHP) dan Topsis (Laravel 10)
 
-<p align="center"><a href="#" target="_blank"><img src="123.gif" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="2.jpg" width="400" alt="Laravel Logo"></a></p>
